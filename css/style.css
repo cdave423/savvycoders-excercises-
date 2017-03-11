@@ -1,7 +1,29 @@
 
-<textarea> {font-family: verdana;}
-{
+.contact {font-family: cursive;}
+p {background-color:black;}
+
+label {
       color: purple;
+      font-size: 100%;
+      width: 200;
     }
-     {
-      font-size: 300%;}
+.contact {
+  width: 400px;
+  margin: 0 auto;
+  margin-top: 100px;
+    }
+
+body {
+  background-image: url(https://c1.staticflickr.com/3/2668/5700579617_7e25257616_b.jpg);
+}
+.round{
+  -moz-border-radius-topleft: 4px;
+-moz-border-radius-topright: 4px;
+-moz-border-radius-bottomright: 30px;
+-moz-border-radius-bottomleft: 0;
+
+-webkit-border-top-left-radius: 10px;
+-webkit-border-top-right-radius: 20px;
+-webkit-border-bottom-right-radius: 30px;
+-webkit-border-bottom-left-radius: 0;
+}
