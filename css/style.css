@@ -1,0 +1,33 @@
+h1 {font-family: verdana;}
+p {
+      color: purple;
+    }
+    i {
+      font-size: 300%;}
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+
+
+  ul#nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+ul#nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 1.3em;
+  width: 100vw;
+}
+
+ul#nav li {
+  display: inline;
+  list-style-type: none;
+}
+
+#header {
+  margin-top: 1.3em;
+}
